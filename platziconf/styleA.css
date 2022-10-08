@@ -1,0 +1,21 @@
+.reto1 {
+    box-sizing: border-box;
+    border: 1px solid white;
+    background-color: aquamarine;
+    padding: 40px;
+}
+
+.reto2 {
+    box-sizing: border-box;
+    border: 1px solid white;
+    background-color: orange;
+    padding: 40px;
+}
+
+.reto3 {
+    box-sizing: border-box;
+    border: 1px solid white;
+    background-color: orangered;
+    padding: 40px;
+}
+
